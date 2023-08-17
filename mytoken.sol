@@ -17,7 +17,7 @@ pragma solidity 0.8.18;
 
 contract MyToken {
 
-    // here are the public variables that stores the deails about the token
+    // here are the public variables that stores the details about the token
     string public name;
     string public symbol;
     uint256 public totalSupply;
@@ -27,7 +27,7 @@ contract MyToken {
    
     // Constructor that initializes the token's name, symbol, and total supply
     // and sets the balance of the contract creator to the total supply
-    constructor( ) {
+    constructor() {
        name = "MyToken";
        symbol = "MTKS";
     }
