@@ -37,5 +37,6 @@ The function checks that the address has sufficient balance before burning the t
 
 Author
 Nicholas Adesina
+
 License
 This project is licensed under the MIT License.
