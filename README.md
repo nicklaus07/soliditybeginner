@@ -34,9 +34,9 @@ The burn function allows users to decrease the total supply and the balance on t
 
 _value (uint256): The amount of tokens to burn.
 The function checks that the address has sufficient balance before burning the tokens.
-
+  
 Author
 Nicholas Adesina
-
+  
 License
 This project is licensed under the MIT License.
